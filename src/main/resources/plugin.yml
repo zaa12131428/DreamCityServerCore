@@ -1,0 +1,12 @@
+name: DreamCityServerCore
+version: v1.0
+main: org.yukina.DreamCityServerCore
+authors: [Yukina]
+description: 用于服务器的杂项的核心处理模块
+depend:
+  - PlayerPoints
+softdepend:
+  - AuthMe
+commands:
+  DreamCity:
+    description: 主命令

@@ -1,0 +1,17 @@
+DBUrl: "47.96.248.18"
+DBUserName: "root"
+DBPassWord: "18277229825"
+DBInitPoolSize: 10
+DBMaxPoolSize: 50
+DBMinPoolSize: 5
+ServerGUIName: "登陆服务器"
+MapleCard-BuySuccessCommand: ""
+MapleCard-EndCommand: ""
+MapleCard-D: 1
+MapleCard-D-DisCount: 1
+MapleCard-M: 22
+MapleCard-M-DisCount: 1
+MapleCard-Q: 60
+MapleCard-Q-DisCount: 1
+MapleCard-Y: 200
+MapleCard-Y-DisCount: 1
